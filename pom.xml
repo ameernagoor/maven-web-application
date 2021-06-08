@@ -97,13 +97,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>bhai</id>
+	      <id>nexus</id>
 	      <name>Altura-Project</name>
 	      <url>http://3.108.64.75:8081/repository/altura-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>bhai</id>
+	      <id>nexus</id>
 	      <name>Altura-Poject</name>
 	      <url>http://3.108.64.75:8081/repository/altura-snap/</url>
 	    </snapshotRepository>
