@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Altura-Project</name>
-	      <url>http://3.108.64.75:8081/repository/altura-release/</url>
+	      <url>http://52.66.247.65:8081/altura-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Altura-Poject</name>
-	      <url>http://3.108.64.75:8081/repository/altura-snap/</url>
+	      <url>http://52.66.247.65:8081/altura-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
