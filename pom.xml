@@ -96,7 +96,17 @@
 	
 	<distributionManagement>
 	
-	   
+	    <repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://13.126.254.58:8081/repository/pipe-release/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://13.126.254.58:8081/repository/pipe-snap/</url>
+	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
